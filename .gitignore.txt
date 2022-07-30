@@ -1,1 +1,1 @@
-Hrithik/settings.py
+/Hrithik/settings.py
